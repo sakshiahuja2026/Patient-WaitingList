@@ -1,2 +1,15 @@
-# Patient-WaitingList
-Project Goals Track current status of patient waiting list Analyze historical monthly trend of waiting list in Inpatient &amp; Outpatient categories Detailed specialty level &amp; age profile analysis Data Scope 2018-2021  Metrics Required Average &amp; Median Waiting List Current Total Wait List Views Required Summary Page Detailed Page for Granular Analysis
+Project Goals 
+1)Track current status of patient waiting list 
+2)Analyze historical monthly trend of waiting list in Inpatient & Outpatient categories 
+3)Detailed specialty level &amp; age profile analysis 
+
+Data Scope 
+2018-2021  
+
+Metrics Required 
+1)Average & Median Waiting List 
+2)Current Total Wait List 
+
+Views Required 
+1)Summary Page 
+2)Detailed Page for Granular Analysis
